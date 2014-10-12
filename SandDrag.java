@@ -11,7 +11,7 @@ public class SandDrag {
 		frame.setVisible(true);
 		frame.setResizable(false);
 		// frame.setLocationRelativeTo();
-		frame.setTitle("HolyBowlyRavioli");
+		frame.setTitle("SandDrag");
 	}
 
 	public static void main(String[] args) {
